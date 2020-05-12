@@ -38,8 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+    {doc: 'Installation', label: 'Docs'},
+    {doc: 'Api', label: 'API'},
     {page: 'help', label: 'Help'},
   ],
 
@@ -72,7 +72,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Recraft Relic`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
