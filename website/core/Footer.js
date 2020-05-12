@@ -30,8 +30,7 @@ class Footer extends React.Component {
               <img
                 src={this.props.config.baseUrl + this.props.config.footerIcon}
                 alt={this.props.config.title}
-                width="66"
-                height="58"
+                width="60"
               />
             )}
           </a>
@@ -69,7 +68,7 @@ class Footer extends React.Component {
           <div>
             <h5>More</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
-            <a href="https://github.com/">GitHub</a>
+            <a href="https://github.com/recraftrelic/recraft-react-native-dating-app">GitHub</a>
             <a
               className="github-button"
               href={this.props.config.repoUrl}
