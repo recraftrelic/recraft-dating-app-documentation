@@ -107,7 +107,7 @@ class Index extends React.Component {
                   </div>
                 </div>
                 <div class="blockImage">
-                  <video width="90%" height="auto" loop="" autoplay="" src="/dating/img/documentation.mp4"></video>
+                  <video width="90%" height="auto" loop="" autoplay="" src="/datingapp/img/documentation.mp4"></video>
                 </div>
               </div>
             </div>
