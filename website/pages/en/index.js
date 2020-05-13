@@ -100,11 +100,14 @@ class Index extends React.Component {
                         <PromoSection>
                           <Button target="_blank" href="https://github.com/recraftrelic/recraft-react-native-dating-app">Github</Button>
                           <Button target="_blank" href="https://play.google.com/store/apps/details?id=com.recraftreactnativedatingapp">Google Play</Button>
-                          <Button target="_blank" href={docUrl('https://documentation.recraftrelic.com/docs/Installation')}>Docs</Button>
+                          <Button target="_blank" href={docUrl('Installation.html')}>Docs</Button>
                         </PromoSection>
                       </div>
                     </span>
                   </div>
+                </div>
+                <div class="blockImage">
+                  <video width="90%" height="auto" loop="" autoplay="" src="/dating/img/documentation.mp4"></video>
                 </div>
               </div>
             </div>
